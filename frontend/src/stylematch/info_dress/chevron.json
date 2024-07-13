@@ -1,0 +1,102 @@
+[
+    {
+        "name": "851505524",
+        "description": "Elegant and stylish",
+        "price": "$10.99"
+    },
+    {
+        "name": "851505525",
+        "description": "Casual summer dress",
+        "price": "$21.98"
+    },
+    {
+        "name": "851505564",
+        "description": "Chic evening wear",
+        "price": "$32.97"
+    },
+    {
+        "name": "851505606",
+        "description": "Perfect for parties",
+        "price": "$43.96"
+    },
+    {
+        "name": "851505610",
+        "description": "Comfortable and cool",
+        "price": "$54.95"
+    },
+    {
+        "name": "851505630",
+        "description": "Modern and trendy",
+        "price": "$65.94"
+    },
+    {
+        "name": "851505656",
+        "description": "Stylish and sleek",
+        "price": "$76.93"
+    },
+    {
+        "name": "851505663",
+        "description": "Classic design",
+        "price": "$87.92"
+    },
+    {
+        "name": "851506151",
+        "description": "Elegant evening dress",
+        "price": "$98.91"
+    },
+    {
+        "name": "851506385",
+        "description": "Comfort fit",
+        "price": "$109.90"
+    },
+    {
+        "name": "851506653",
+        "description": "Bright and colorful",
+        "price": "$120.89"
+    },
+    {
+        "name": "851506931",
+        "description": "Formal wear",
+        "price": "$131.88"
+    },
+    {
+        "name": "851506936",
+        "description": "Elegant and stylish",
+        "price": "$142.87"
+    },
+    {
+        "name": "851507144",
+        "description": "Casual summer dress",
+        "price": "$153.86"
+    },
+    {
+        "name": "851507169",
+        "description": "Chic evening wear",
+        "price": "$164.85"
+    },
+    {
+        "name": "851507178",
+        "description": "Perfect for parties",
+        "price": "$175.84"
+    },
+    {
+        "name": "851507454",
+        "description": "Comfortable and cool",
+        "price": "$186.83"
+    },
+    {
+        "name": "851508093",
+        "description": "Modern and trendy",
+        "price": "$197.82"
+    },
+    {
+        "name": "851508098",
+        "description": "Stylish and sleek",
+        "price": "$208.81"
+    },
+    {
+        "name": "851508106",
+        "description": "Classic design",
+        "price": "$219.80"
+    }
+]

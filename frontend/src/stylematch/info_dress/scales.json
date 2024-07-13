@@ -1,0 +1,82 @@
+[
+    {
+        "name": "851505475",
+        "description": "Elegant and stylish",
+        "price": "$10.99"
+    },
+    {
+        "name": "851505999",
+        "description": "Casual summer dress",
+        "price": "$21.98"
+    },
+    {
+        "name": "851506027",
+        "description": "Chic evening wear",
+        "price": "$32.97"
+    },
+    {
+        "name": "851506189",
+        "description": "Perfect for parties",
+        "price": "$43.96"
+    },
+    {
+        "name": "851506306",
+        "description": "Comfortable and cool",
+        "price": "$54.95"
+    },
+    {
+        "name": "851506447",
+        "description": "Modern and trendy",
+        "price": "$65.94"
+    },
+    {
+        "name": "851506462",
+        "description": "Stylish and sleek",
+        "price": "$76.93"
+    },
+    {
+        "name": "851506502",
+        "description": "Classic design",
+        "price": "$87.92"
+    },
+    {
+        "name": "851506766",
+        "description": "Elegant evening dress",
+        "price": "$98.91"
+    },
+    {
+        "name": "851506962",
+        "description": "Comfort fit",
+        "price": "$109.90"
+    },
+    {
+        "name": "851507011",
+        "description": "Bright and colorful",
+        "price": "$120.89"
+    },
+    {
+        "name": "851507111",
+        "description": "Formal wear",
+        "price": "$131.88"
+    },
+    {
+        "name": "851507248",
+        "description": "Elegant and stylish",
+        "price": "$142.87"
+    },
+    {
+        "name": "851507562",
+        "description": "Casual summer dress",
+        "price": "$153.86"
+    },
+    {
+        "name": "851507692",
+        "description": "Chic evening wear",
+        "price": "$164.85"
+    },
+    {
+        "name": "851507949",
+        "description": "Perfect for parties",
+        "price": "$175.84"
+    }
+]

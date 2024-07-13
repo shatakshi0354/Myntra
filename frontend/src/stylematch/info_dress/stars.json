@@ -1,0 +1,22 @@
+[
+    {
+        "name": "851505589",
+        "description": "Elegant and stylish",
+        "price": "$10.99"
+    },
+    {
+        "name": "851506015",
+        "description": "Casual summer dress",
+        "price": "$21.98"
+    },
+    {
+        "name": "851506023",
+        "description": "Chic evening wear",
+        "price": "$32.97"
+    },
+    {
+        "name": "851507280",
+        "description": "Perfect for parties",
+        "price": "$43.96"
+    }
+]
